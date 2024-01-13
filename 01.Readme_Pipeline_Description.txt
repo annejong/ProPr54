@@ -1,0 +1,7 @@
+1) Main script is 00.predictSigma54regulon.sh
+
+2) Regulon proteins
+First we annotate all UniProt protein as potential regulon members on the basis of similarity to database/Sigma54RegulonProteins.faa
+A list of all UniProt IDs are generated and stored as: database/Sigma54RegulonProteins.UniProtID
+This list of UniProtIDs are generated with the script on Habrok: /home1/p127804/PPP/UniProtClassification/01.DIAMOND_Regulon_UniProt.sh
+
